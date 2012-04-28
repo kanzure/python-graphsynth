@@ -1,4 +1,4 @@
-GraphSynth: software for generative grammars and creative search
+GraphSynth: generative grammars and creative search
 ==============================
 
 This repository contains an incomplete python-only version of [GraphSynth](http://graphsynth.com).
